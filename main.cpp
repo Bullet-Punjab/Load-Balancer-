@@ -7,6 +7,7 @@
 #include <algorithm>
 #include <iomanip>
 #include <string>
+#include <functional>
 using namespace std;
 
 struct Server { int id, maxLoad, load; };
